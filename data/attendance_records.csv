@@ -1,0 +1,85 @@
+Username,Date,Lecture_Number,Status,Subject,Timestamp
+student,2026-10-26,1,Present,Data Structures,2026-11-06 12:45:28
+student,2026-10-26,2,Present,Algorithms,2026-11-06 12:45:28
+student,2026-10-26,3,Present,Operating Systems,2026-11-06 12:45:28
+student,2026-10-26,4,Present,Computer Networks,2026-11-06 12:45:28
+student,2026-10-26,5,Present,Database Systems,2026-11-06 12:45:28
+student,2026-10-26,6,Present,Software Engg,2026-11-06 12:45:28
+student,2026-10-27,1,Present,Data Structures,2026-11-06 12:45:28
+student,2026-10-27,2,Present,Algorithms,2026-11-06 12:45:28
+student,2026-10-27,3,Absent,Operating Systems,2026-11-06 12:45:28
+student,2026-10-27,4,Present,Computer Networks,2026-11-06 12:45:28
+student,2026-10-27,5,Present,Database Systems,2026-11-06 12:45:28
+student,2026-10-27,6,Absent,Software Engg,2026-11-06 12:45:28
+student,2026-10-28,1,Present,Data Structures,2026-11-06 12:45:28
+student,2026-10-28,2,Present,Algorithms,2026-11-06 12:45:28
+student,2026-10-28,3,Present,Operating Systems,2026-11-06 12:45:28
+student,2026-10-28,4,Present,Computer Networks,2026-11-06 12:45:28
+student,2026-10-28,5,Present,Database Systems,2026-11-06 12:45:28
+student,2026-10-28,6,Present,Software Engg,2026-11-06 12:45:28
+student,2026-10-29,1,Absent,Data Structures,2026-11-06 12:45:28
+student,2026-10-29,2,Present,Algorithms,2026-11-06 12:45:28
+student,2026-10-29,3,Present,Operating Systems,2026-11-06 12:45:28
+student,2026-10-29,4,Present,Computer Networks,2026-11-06 12:45:28
+student,2026-10-29,5,Absent,Database Systems,2026-11-06 12:45:28
+student,2026-10-29,6,Leave,Software Engg,2026-11-06 12:45:28
+student,2026-10-30,1,Present,Data Structures,2026-11-06 12:45:28
+student,2026-10-30,2,Present,Algorithms,2026-11-06 12:45:28
+student,2026-10-30,3,Present,Operating Systems,2026-11-06 12:45:28
+student,2026-10-30,4,Present,Computer Networks,2026-11-06 12:45:28
+student,2026-10-30,5,Present,Database Systems,2026-11-06 12:45:28
+student,2026-10-30,6,Present,Software Engg,2026-11-06 12:45:28
+student,2026-11-02,1,Present,Data Structures,2026-11-06 12:45:28
+student,2026-11-02,2,Absent,Algorithms,2026-11-06 12:45:28
+student,2026-11-02,3,Present,Operating Systems,2026-11-06 12:45:28
+student,2026-11-02,4,Present,Computer Networks,2026-11-06 12:45:28
+student,2026-11-02,5,Leave,Database Systems,2026-11-06 12:45:28
+student,2026-11-02,6,Absent,Software Engg,2026-11-06 12:45:28
+student,2026-11-03,1,Present,Data Structures,2026-11-06 12:45:28
+student,2026-11-03,2,Present,Algorithms,2026-11-06 12:45:28
+student,2026-11-03,3,Present,Operating Systems,2026-11-06 12:45:28
+student,2026-11-03,4,Present,Computer Networks,2026-11-06 12:45:28
+student,2026-11-03,5,Absent,Database Systems,2026-11-06 12:45:28
+student,2026-11-03,6,Absent,Software Engg,2026-11-06 12:45:28
+Dipika_08,2026-10-26,1,Present,Data Structures,2026-11-06 15:32:53
+Dipika_08,2026-10-26,2,Present,Algorithms,2026-11-06 15:32:53
+Dipika_08,2026-10-26,3,Present,Operating Systems,2026-11-06 15:32:53
+Dipika_08,2026-10-26,4,Present,Computer Networks,2026-11-06 15:32:53
+Dipika_08,2026-10-26,5,Present,Database Systems,2026-11-06 15:32:53
+Dipika_08,2026-10-26,6,Present,Software Engg,2026-11-06 15:32:53
+Dipika_08,2026-10-27,1,Present,Data Structures,2026-11-06 15:32:53
+Dipika_08,2026-10-27,2,Present,Algorithms,2026-11-06 15:32:53
+Dipika_08,2026-10-27,3,Absent,Operating Systems,2026-11-06 15:32:53
+Dipika_08,2026-10-27,4,Present,Computer Networks,2026-11-06 15:32:53
+Dipika_08,2026-10-27,5,Present,Database Systems,2026-11-06 15:32:53
+Dipika_08,2026-10-27,6,Absent,Software Engg,2026-11-06 15:32:53
+Dipika_08,2026-10-28,1,Present,Data Structures,2026-11-06 15:32:53
+Dipika_08,2026-10-28,2,Present,Algorithms,2026-11-06 15:32:53
+Dipika_08,2026-10-28,3,Present,Operating Systems,2026-11-06 15:32:53
+Dipika_08,2026-10-28,4,Present,Computer Networks,2026-11-06 15:32:53
+Dipika_08,2026-10-28,5,Present,Database Systems,2026-11-06 15:32:53
+Dipika_08,2026-10-28,6,Present,Software Engg,2026-11-06 15:32:53
+Dipika_08,2026-10-29,1,Absent,Data Structures,2026-11-06 15:32:53
+Dipika_08,2026-10-29,2,Present,Algorithms,2026-11-06 15:32:53
+Dipika_08,2026-10-29,3,Present,Operating Systems,2026-11-06 15:32:53
+Dipika_08,2026-10-29,4,Present,Computer Networks,2026-11-06 15:32:53
+Dipika_08,2026-10-29,5,Absent,Database Systems,2026-11-06 15:32:53
+Dipika_08,2026-10-29,6,Leave,Software Engg,2026-11-06 15:32:53
+Dipika_08,2026-10-30,1,Present,Data Structures,2026-11-06 15:32:53
+Dipika_08,2026-10-30,2,Present,Algorithms,2026-11-06 15:32:53
+Dipika_08,2026-10-30,3,Present,Operating Systems,2026-11-06 15:32:53
+Dipika_08,2026-10-30,4,Present,Computer Networks,2026-11-06 15:32:53
+Dipika_08,2026-10-30,5,Present,Database Systems,2026-11-06 15:32:53
+Dipika_08,2026-10-30,6,Present,Software Engg,2026-11-06 15:32:53
+Dipika_08,2026-11-02,1,Present,Data Structures,2026-11-06 15:32:53
+Dipika_08,2026-11-02,2,Absent,Algorithms,2026-11-06 15:32:53
+Dipika_08,2026-11-02,3,Present,Operating Systems,2026-11-06 15:32:53
+Dipika_08,2026-11-02,4,Present,Computer Networks,2026-11-06 15:32:53
+Dipika_08,2026-11-02,5,Leave,Database Systems,2026-11-06 15:32:53
+Dipika_08,2026-11-02,6,Absent,Software Engg,2026-11-06 15:32:53
+Dipika_08,2026-11-03,1,Present,Data Structures,2026-11-06 15:32:53
+Dipika_08,2026-11-03,2,Present,Algorithms,2026-11-06 15:32:53
+Dipika_08,2026-11-03,3,Present,Operating Systems,2026-11-06 15:32:53
+Dipika_08,2026-11-03,4,Present,Computer Networks,2026-11-06 15:32:53
+Dipika_08,2026-11-03,5,Absent,Database Systems,2026-11-06 15:32:53
+Dipika_08,2026-11-03,6,Absent,Software Engg,2026-11-06 15:32:53
