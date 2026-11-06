@@ -3,6 +3,10 @@
 A multi-user predictive attendance management and optimization system for college students built with **Python**, **Streamlit**, and **Pandas**. Attend-Wise replaces guesswork with exact algebraic models to compute required consecutive recovery classes and safe bunk buffers before exam debarment thresholds are breached.
 
 ---
+## 🌐 Live Prototype & Access
+
+* **Live Interactive Demo:** [Attend-Wise Web Application](https://attend-wise-smart-attendance-and-predictive-optimizer-d2xl6cw8.streamlit.app/)
+* **Local Run:** `streamlit run app.py` (Localhost: `http://localhost:8501`)
 
 ## 📐 Mathematical & Prediction Engine (`src/predictor.py`)
 
